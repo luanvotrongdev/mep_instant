@@ -20,6 +20,7 @@
   - [mep_instant cocos creator](#mepintant-sdk)
 - Game bundling: [cocos’s guideline](https://docs.cocos.com/creator/manual/en/scripting/asset-bundle.html)
 - SandboxApp testflight version 2.0.0 - 202104081641
+- Bundle size limit: 5MB
 ## Unsupported
 - cookie
 - DOM
