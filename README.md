@@ -37,8 +37,15 @@
 <img src="./resources/bundling_project.png" width=70% height=70% >
 - Export bundle <br>
 <img src="./resources/export_project.png" width=70% height=70% >
-- Testing <br>
-<img src="./resources/install_extension.png" width=70% height=70% >
+- <b>Testing: </b>
+  1. rename
+  - Native games: the game bundle should be renamed to "url" <br>
+  - H5 games: the exported folder should be renamed to "url" <br>
+  2. Zip "url" folder
+  3. Host "url.zip" file on CDN and start testing with iOS Sandbox on testflight
+  - Note: Game will no longer be tested on GameOfSongs QC environment but a different Sandbox app. please contact MEPTeam if you dont have access to the tool.
+<img src="./resources/zip_for_test.png" width=70% height=70% >
+<img src="./resources/rename.png" width=70% height=70% >
 - [Debug with google chrome devtools](https://docs.cocos.com/creator/manual/en/publish/debug-jsb.html)
   - NOTE: only works on google Chrome devtools.
   - NOTE: In case of JS exception, devtools will failed to connect as well. 
