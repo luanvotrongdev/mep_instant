@@ -49,3 +49,36 @@
 - [Debug with google chrome devtools](https://docs.cocos.com/creator/manual/en/publish/debug-jsb.html)
   - NOTE: only works on google Chrome devtools.
   - NOTE: In case of JS exception, devtools will failed to connect as well. 
+## Samples
+### Read and filter note
+```javascript
+const difficultyToOctave = {
+  "SupperEasy": 4,
+  "Easy": 5,
+  "Medium": 6,
+  "Hard": 7,
+  "Expert": 9
+}
+function midiToNoteName(midi) {
+  let notes = ["C", "C#", "D", "D#", "E", "F",
+    "F#", "G", "G#", "A", "A#", "B"];
+  let noteIdx = midi % 12;
+  let output = {
+    noteName: notes[noteIdx],
+    octave: ((midi - noteIdx) / 12) - 1
+  }
+  return output
+}
+MEPInstant.initializeAsync().then(() => {
+  let binURL = 'https://music.amanotes.net/media/c01a912b-46cc-4354-9e38-ffe63d9dd503/97360c7d-979b-4c60-92d1-787cf6c6d82e.bin'
+  //'https://music.amanotes.net/media/ef661fc1-395a-46c9-b87d-901add67d4ea/6dcc59f4-feb1-465f-8154-f464f90b935b.bin'
+  MEPInstant.getNotesAsync(binURL)
+    .then(levelData => {
+      console.log(levelData)
+      const notes = levelData.fullNotes;
+      let notesFiltered = notes.filter(note => midiToNoteName(note.midi).octave == difficultyToOctave["Medium"])
+      console.log(notesFiltered.length)
+      console.log(JSON.stringify(notesFiltered))
+    })
+})
+```
