@@ -22,10 +22,12 @@
 - Game bundling: [cocos’s guideline](https://docs.cocos.com/creator/manual/en/scripting/asset-bundle.html)
 - SandboxApp testflight version 2.0.0 - 202104081641
 - Bundle size limit: 5MB
+
 ## Unsupported
 - cookie
 - DOM
 - NodeJS 
+
 ## Sample steps to test with SandBox app
 > [Sample template](./resources/mep-instant-samplegame-native.zip) <br>
 > Sample Game: Magic Tiles 3 <br>
@@ -49,8 +51,10 @@
 - [Debug with google chrome devtools](https://docs.cocos.com/creator/manual/en/publish/debug-jsb.html)
   - NOTE: only works on google Chrome devtools.
   - NOTE: In case of JS exception, devtools will failed to connect as well. 
+
 ## Samples
 ### Read and filter note
+
 ```javascript
 const difficultyToOctave = {
   "SupperEasy": 4,
