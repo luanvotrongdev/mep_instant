@@ -68,6 +68,7 @@ function midiToNoteName(midi) {
     "F#", "G", "G#", "A", "A#", "B"];
   let noteIdx = midi % 12;
   let output = {
+    line: noteIdx + 1,
     noteName: notes[noteIdx],
     octave: ((midi - noteIdx) / 12) - 1
   }
