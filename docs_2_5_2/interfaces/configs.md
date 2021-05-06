@@ -18,7 +18,7 @@
 
 turn on/off auto play mode
 
-Defined in: index.ts:114
+Defined in: index.ts:115
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 flag enable endless mode. if TRUE game must be loop forever
 
-Defined in: index.ts:104
+Defined in: index.ts:105
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 maximum crown to finish game base on isEndlessMode disable
 
-Defined in: index.ts:109
+Defined in: index.ts:110

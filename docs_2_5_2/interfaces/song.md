@@ -21,7 +21,7 @@
 
 Artist's name.
 
-Defined in: index.ts:170
+Defined in: index.ts:171
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 Duration in second.
 
-Defined in: index.ts:175
+Defined in: index.ts:176
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 Song's id.
 
-Defined in: index.ts:160
+Defined in: index.ts:161
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 Link to level file.
 
-Defined in: index.ts:185
+Defined in: index.ts:186
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 Link to mp3.
 
-Defined in: index.ts:180
+Defined in: index.ts:181
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 Song's title.
 
-Defined in: index.ts:165
+Defined in: index.ts:166

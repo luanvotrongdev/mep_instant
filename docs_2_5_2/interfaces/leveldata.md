@@ -13,6 +13,7 @@
 - [filterByEnergyLevel](leveldata.md#filterbyenergylevel)
 - [fullNotes](leveldata.md#fullnotes)
 - [notes](leveldata.md#notes)
+- [notesLineIndex](leveldata.md#noteslineindex)
 - [ppq](leveldata.md#ppq)
 - [selectNotesByLines](leveldata.md#selectnotesbylines)
 
@@ -36,9 +37,9 @@ Name | Type |
 
 **Returns:** [*Note*](note.md)[]
 
-Defined in: index.ts:91
+Defined in: index.ts:92
 
-Defined in: index.ts:91
+Defined in: index.ts:92
 
 ___
 
@@ -46,7 +47,7 @@ ___
 
 • **bpm**: *number*
 
-Defined in: index.ts:87
+Defined in: index.ts:88
 
 ___
 
@@ -54,7 +55,7 @@ ___
 
 • **difficulties**: Object
 
-Defined in: index.ts:89
+Defined in: index.ts:90
 
 ___
 
@@ -62,7 +63,7 @@ ___
 
 • **duration**: *number*
 
-Defined in: index.ts:86
+Defined in: index.ts:87
 
 ___
 
@@ -83,9 +84,9 @@ Name | Type |
 
 **Returns:** [*Note*](note.md)[]
 
-Defined in: index.ts:97
+Defined in: index.ts:98
 
-Defined in: index.ts:97
+Defined in: index.ts:98
 
 ___
 
@@ -93,7 +94,7 @@ ___
 
 • **fullNotes**: [*Note*](note.md)[]
 
-Defined in: index.ts:90
+Defined in: index.ts:91
 
 ___
 
@@ -105,11 +106,19 @@ Defined in: index.ts:85
 
 ___
 
+### notesLineIndex
+
+• **notesLineIndex**: Object
+
+Defined in: index.ts:86
+
+___
+
 ### ppq
 
 • **ppq**: *number*
 
-Defined in: index.ts:88
+Defined in: index.ts:89
 
 ___
 
@@ -130,6 +139,6 @@ Name | Type |
 
 **Returns:** [*Note*](note.md)[]
 
-Defined in: index.ts:96
+Defined in: index.ts:97
 
-Defined in: index.ts:96
+Defined in: index.ts:97

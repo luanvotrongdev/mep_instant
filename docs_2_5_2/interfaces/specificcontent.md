@@ -17,7 +17,7 @@
 
 content url.
 
-Defined in: index.ts:148
+Defined in: index.ts:149
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 filetype: string { "MP3", "BIN", "ZIP", "SFX_COUNT" }
 
-Defined in: index.ts:153
+Defined in: index.ts:154

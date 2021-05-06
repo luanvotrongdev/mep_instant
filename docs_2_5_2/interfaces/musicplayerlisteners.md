@@ -27,7 +27,7 @@
 
 Fires when the sound finishes playing (if it is looping, it'll fire at the end of each loop).
 
-Defined in: index.ts:255
+Defined in: index.ts:256
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 Fires when the sound is loaded.
 
-Defined in: index.ts:231
+Defined in: index.ts:232
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 Fires when the sound has been paused.
 
-Defined in: index.ts:245
+Defined in: index.ts:246
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 Fires when the sound begins playing.
 
-Defined in: index.ts:236
+Defined in: index.ts:237
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 Fires when the sound has been seeked.
 
-Defined in: index.ts:240
+Defined in: index.ts:241
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 Fires when the sound has been stopped.
 
-Defined in: index.ts:250
+Defined in: index.ts:251

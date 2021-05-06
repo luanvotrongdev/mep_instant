@@ -33,7 +33,7 @@ Set to true to automatically start playback when sound is loaded.
 
 **`default`** `false`
 
-Defined in: index.ts:276
+Defined in: index.ts:277
 
 ___
 
@@ -45,7 +45,7 @@ Set to true to automatically loop the sound forever.
 
 **`default`** `false`
 
-Defined in: index.ts:269
+Defined in: index.ts:270
 
 ___
 
@@ -57,7 +57,7 @@ Fires when the sound finishes playing (if it is looping, it'll fire at the end o
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onEnd](musicplayerlisteners.md#onend)
 
-Defined in: index.ts:255
+Defined in: index.ts:256
 
 ___
 
@@ -69,7 +69,7 @@ Fires when the sound is loaded.
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onLoad](musicplayerlisteners.md#onload)
 
-Defined in: index.ts:231
+Defined in: index.ts:232
 
 ___
 
@@ -81,7 +81,7 @@ Fires when the sound has been paused.
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onPause](musicplayerlisteners.md#onpause)
 
-Defined in: index.ts:245
+Defined in: index.ts:246
 
 ___
 
@@ -93,7 +93,7 @@ Fires when the sound begins playing.
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onPlay](musicplayerlisteners.md#onplay)
 
-Defined in: index.ts:236
+Defined in: index.ts:237
 
 ___
 
@@ -105,7 +105,7 @@ Fires when the sound has been seeked.
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onSeek](musicplayerlisteners.md#onseek)
 
-Defined in: index.ts:240
+Defined in: index.ts:241
 
 ___
 
@@ -117,7 +117,7 @@ Fires when the sound has been stopped.
 
 Inherited from: [MusicPlayerListeners](musicplayerlisteners.md).[onStop](musicplayerlisteners.md#onstop)
 
-Defined in: index.ts:250
+Defined in: index.ts:251
 
 ___
 
@@ -129,7 +129,7 @@ The rate of playback. 0.5 to 4.0, with 1.0 being normal speed.
 
 **`default`** `1.0`
 
-Defined in: index.ts:283
+Defined in: index.ts:284
 
 ___
 
@@ -139,4 +139,4 @@ ___
 
 The sources to the track(s) to be loaded for the sound (URLs or base64 data URIs).
 
-Defined in: index.ts:262
+Defined in: index.ts:263

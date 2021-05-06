@@ -20,7 +20,7 @@
 
 Is this auto content.
 
-Defined in: index.ts:136
+Defined in: index.ts:137
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 Some configs from app: isUseSuperpowered
 
-Defined in: index.ts:131
+Defined in: index.ts:132
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 mode game: SINGLE:0, QUICKPLAY: 1, MULTIPLAYER:2
 
-Defined in: index.ts:126
+Defined in: index.ts:127
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 data of song
 
-Defined in: index.ts:121
+Defined in: index.ts:122
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 Specific content array.
 
-Defined in: index.ts:141
+Defined in: index.ts:142

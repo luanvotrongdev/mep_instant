@@ -70,7 +70,7 @@
 
 **Returns:** *void*
 
-Defined in: index.ts:225
+Defined in: index.ts:226
 
 ## Functions
 
@@ -91,7 +91,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:646
+Defined in: index.ts:647
 
 ___
 
@@ -111,7 +111,7 @@ Name | Type |
 
 **Returns:** *void*
 
-Defined in: index.ts:633
+Defined in: index.ts:634
 
 ___
 
@@ -131,7 +131,7 @@ Name | Type | Description |
 
 Return a music player that will be use to control music playback.
 
-Defined in: index.ts:556
+Defined in: index.ts:557
 
 ___
 
@@ -148,7 +148,7 @@ Name | Type |
 
 **Returns:** *void*
 
-Defined in: index.ts:607
+Defined in: index.ts:608
 
 ___
 
@@ -166,7 +166,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:547
+Defined in: index.ts:548
 
 ___
 
@@ -180,7 +180,7 @@ Get bpm line
 
 Return a note name
 
-Defined in: index.ts:681
+Defined in: index.ts:682
 
 ___
 
@@ -194,7 +194,7 @@ Get drum line
 
 Return a note name
 
-Defined in: index.ts:697
+Defined in: index.ts:698
 
 ___
 
@@ -208,7 +208,7 @@ Gets the data associated with the individual gameplay session.
 
 Returns a promise that resolves when data is read.
 
-Defined in: index.ts:511
+Defined in: index.ts:512
 
 ___
 
@@ -222,7 +222,7 @@ Get melody line
 
 Return a note name
 
-Defined in: index.ts:689
+Defined in: index.ts:690
 
 ___
 
@@ -237,13 +237,13 @@ Read notes data from the level file.
 Name | Type | Default value | Description |
 :------ | :------ | :------ | :------ |
 `levelUrl` | *string* | - | The link to level file.   |
-`isDefaultFilter` | *boolean* | true | - |
+`isDefaultFilter` | *boolean* | false | - |
 
 **Returns:** *Promise*<[*LevelData*](interfaces/leveldata.md)\>
 
 Return a promise that resolves when the note data is fetched.
 
-Defined in: index.ts:478
+Defined in: index.ts:479
 
 ___
 
@@ -255,7 +255,7 @@ ___
 
 Return the platform game running on. e.g. "iOS" or "Android".
 
-Defined in: index.ts:462
+Defined in: index.ts:463
 
 ___
 
@@ -267,7 +267,7 @@ ___
 
 Return the player's id or null.
 
-Defined in: index.ts:469
+Defined in: index.ts:470
 
 ___
 
@@ -279,7 +279,7 @@ ___
 
 The SDK version. e.g. "2.0.0".
 
-Defined in: index.ts:455
+Defined in: index.ts:456
 
 ___
 
@@ -293,7 +293,7 @@ Get sound energy line
 
 Return a note name
 
-Defined in: index.ts:705
+Defined in: index.ts:706
 
 ___
 
@@ -307,7 +307,7 @@ Get vocals line
 
 Return a note name
 
-Defined in: index.ts:673
+Defined in: index.ts:674
 
 ___
 
@@ -321,7 +321,7 @@ Initializes the SDK library. This should be called before any other SDK function
 
 Returns a promise that resolves when the SDK is ready to use.
 
-Defined in: index.ts:437
+Defined in: index.ts:438
 
 ___
 
@@ -333,7 +333,7 @@ Is multiplayer mode?
 
 **Returns:** *boolean*
 
-Defined in: index.ts:614
+Defined in: index.ts:615
 
 ___
 
@@ -352,7 +352,7 @@ Name | Type |
 
 **Returns:** *void*
 
-Defined in: index.ts:621
+Defined in: index.ts:622
 
 ___
 
@@ -370,7 +370,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:595
+Defined in: index.ts:596
 
 ___
 
@@ -388,7 +388,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:603
+Defined in: index.ts:604
 
 ___
 
@@ -406,7 +406,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:519
+Defined in: index.ts:520
 
 ___
 
@@ -424,7 +424,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:527
+Defined in: index.ts:528
 
 ___
 
@@ -442,7 +442,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:571
+Defined in: index.ts:572
 
 ___
 
@@ -460,7 +460,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:587
+Defined in: index.ts:588
 
 ___
 
@@ -480,7 +480,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:665
+Defined in: index.ts:666
 
 ___
 
@@ -492,7 +492,7 @@ PvP mode: fire event to app if game ready to play
 
 **Returns:** *void*
 
-Defined in: index.ts:563
+Defined in: index.ts:564
 
 ___
 
@@ -510,7 +510,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:579
+Defined in: index.ts:580
 
 ___
 
@@ -530,7 +530,7 @@ Name | Type | Description |
 
 Returns a promise that resolves when data is saved.
 
-Defined in: index.ts:502
+Defined in: index.ts:503
 
 ___
 
@@ -549,7 +549,7 @@ Name | Type | Description |
 
 **Returns:** *void*
 
-Defined in: index.ts:536
+Defined in: index.ts:537
 
 ___
 
@@ -567,4 +567,4 @@ gameMode: Object,
 player: Object
 }>} Returns a promise that resolves when game is loaded and data is fulfilled.
 
-Defined in: index.ts:493
+Defined in: index.ts:494

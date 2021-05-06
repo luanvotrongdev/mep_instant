@@ -22,7 +22,7 @@
 
 crown. Earn by playing endless mode.
 
-Defined in: index.ts:202
+Defined in: index.ts:203
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 loop count. Once song is over then loop += 1
 
-Defined in: index.ts:212
+Defined in: index.ts:213
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 number of notes hit.
 
-Defined in: index.ts:207
+Defined in: index.ts:208
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 percentage of current song. e.g. 0.8
 
-Defined in: index.ts:222
+Defined in: index.ts:223
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 revise count.
 
-Defined in: index.ts:217
+Defined in: index.ts:218
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 score.
 
-Defined in: index.ts:192
+Defined in: index.ts:193
 
 ___
 
@@ -82,4 +82,4 @@ ___
 
 star.
 
-Defined in: index.ts:197
+Defined in: index.ts:198
