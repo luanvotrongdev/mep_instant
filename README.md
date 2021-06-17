@@ -89,6 +89,3 @@ MEPInstant.initializeAsync().then(() => {
     })
 })
 ```
-
-## Development flow
-<img src="./development_flow.svg">
