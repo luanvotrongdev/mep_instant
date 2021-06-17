@@ -1,0 +1,87 @@
+@startuml
+title Development-testing process
+start
+
+repeat
+    repeat
+    :Start of development;
+    repeat
+        partition "Gameflow development" {
+                if(Has specific content?) then (no)
+                elseif(Should update specific content?) then (yes)
+                    #palegreen:MEP team update speicific content;
+                endif
+
+                :Develop;
+                :Testing on Sandbox;
+        }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PLATFORM TESTING//;
+
+    partition #LightPink "Prepare GOSStaging" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            :Update staging environment;
+        endif
+    }
+
+    ->//START STAGING TESTING//;
+
+    partition "Testing on GOSStaging" {
+        :Testing;
+    }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PRODUCTION TESTING//;
+
+    partition #LightPink "Prepare GOSProduction" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            split
+                ->//do//;
+                :Increase game config version;
+            split again
+                ->//do//;
+                :Update production environment;
+            end split
+        endif
+    }
+
+    ->//START PRODUCTION TESTING//;
+
+    partition "Testing on GOSProduction" {
+        :Testing;
+    }
+repeat while(still have errors?) is (yes)
+' repeat
+'   :Test something;
+'     if (Something went wrong?) then (no)
+'       #palegreen:OK;
+'       break
+'     endif
+'     ->NOK;
+'     :Alert "Error with long text";
+' repeat while (Something went wrong with long text?) is (yes) not (no)
+' ->//merged step//;
+' :Alert "Success";
+stop
+@enduml

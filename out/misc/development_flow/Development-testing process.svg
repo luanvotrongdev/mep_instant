@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1631px" preserveAspectRatio="none" style="width:555px;height:1631px;background:#FFFFFF;" version="1.1" viewBox="0 0 555 1631" width="555px" zoomAndPan="magnify"><defs><filter height="300%" id="fq8lop51jjubg" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="256" x="148.5" y="27.4023">Development-testing process</text><ellipse cx="250" cy="41.1992" fill="#000000" filter="url(#fq8lop51jjubg)" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="140" x="180" y="159.1992"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="190" y="180.8008">Start of development</text><rect fill="#FFFFFF" filter="url(#fq8lop51jjubg)" height="290.0215" style="stroke:#000000;stroke-width:2.0;" width="443.5" x="27.5" y="247.332"/><path d="M198.5,247.332 L198.5,256.8203 L188.5,266.8203 L27.5,266.8203 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="30.5" y="261.8672">Gameflow development</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="49.5,286.8203,162.5,286.8203,174.5,298.8203,162.5,310.8203,49.5,310.8203,37.5,298.8203,49.5,286.8203" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="14" x="110" y="321.4551">no</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="113" x="49.5" y="302.9775">Has specific content?</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="218.5,286.8203,388.5,286.8203,400.5,298.8203,388.5,310.8203,218.5,310.8203,206.5,298.8203,218.5,286.8203" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="307.5" y="321.4551">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="170" x="218.5" y="302.9775">Should update specific content?</text><rect fill="#98FB98" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="218" x="194.5" y="342.9551"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="198" x="204.5" y="364.5566">MEP team update speicific content</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="216.5" y="437.0879"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="226.5" y="458.6895">Develop</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="134" x="183" y="491.2207"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="114" x="193" y="512.8223">Testing on Sandbox</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="250,213.332,262,225.332,250,237.332,238,225.332,250,213.332" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="205.5,577.3535,294.5,577.3535,306.5,589.3535,294.5,601.3535,205.5,601.3535,193.5,589.3535,205.5,577.3535" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="205.5" y="593.5107">still have errors?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="306.5" y="587.0332">yes</text><rect fill="#FFB6C1" filter="url(#fq8lop51jjubg)" height="278.9307" style="stroke:#000000;stroke-width:2.0;" width="483.5" x="15.5" y="624.3848"/><path d="M163.5,624.3848 L163.5,633.873 L153.5,643.873 L15.5,643.873 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="18.5" y="638.9199">Prepare GOSStaging</text><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="410" y1="709.3506" y2="709.3506"/><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="135" x="45.5" y="729.3506"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="115" x="55.5" y="750.9521">Update GOS staging</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="129" x="208.5" y="729.3506"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="109" x="218.5" y="750.9521">Update API staging</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="89" x="365.5" y="729.3506"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="375.5" y="750.9521">Update SDK</text><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="410" y1="783.4834" y2="783.4834"/><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="182" x="159" y="813.1826"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="162" x="169" y="834.7842">Update staging environment</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="153,660.873,347,660.873,359,672.873,347,684.873,153,684.873,141,672.873,153,660.873" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="254" y="695.5078">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="194" x="153" y="677.0303">Should update platform or backend?</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="250,867.3154,262,879.3154,250,891.3154,238,879.3154,250,867.3154" style="stroke:#A80036;stroke-width:1.5;"/><rect fill="#FFFFFF" filter="url(#fq8lop51jjubg)" height="82.6211" style="stroke:#000000;stroke-width:2.0;" width="178" x="161" y="936.3467"/><path d="M329,936.3467 L329,945.835 L319,955.835 L161,955.835 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="164" y="950.8818">Testing on GOSStaging</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="62" x="219" y="972.835"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="229" y="994.4365">Testing</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="250,115.1992,262,127.1992,250,139.1992,238,127.1992,250,115.1992" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="205.5,1038.9678,294.5,1038.9678,306.5,1050.9678,294.5,1062.9678,205.5,1062.9678,193.5,1050.9678,205.5,1038.9678" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="205.5" y="1055.125">still have errors?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="306.5" y="1048.6475">yes</text><rect fill="#FFB6C1" filter="url(#fq8lop51jjubg)" height="327.2314" style="stroke:#000000;stroke-width:2.0;" width="492.5" x="11" y="1085.999"/><path d="M182,1085.999 L182,1095.4873 L172,1105.4873 L11,1105.4873 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="161" x="14" y="1100.5342">Prepare GOSProduction</text><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="410" y1="1170.9648" y2="1170.9648"/><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="135" x="45.5" y="1190.9648"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="115" x="55.5" y="1212.5664">Update GOS staging</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="129" x="208.5" y="1190.9648"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="109" x="218.5" y="1212.5664">Update API staging</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="89" x="365.5" y="1190.9648"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="375.5" y="1212.5664">Update SDK</text><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="410" y1="1245.0977" y2="1245.0977"/><line style="stroke:#A80036;stroke-width:1.5;" x1="134.5" x2="357.5" y1="1281.5977" y2="1281.5977"/><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="187" x="41" y="1303.0977"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="167" x="51" y="1324.6992">Increase game config version</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="203" x="256" y="1303.0977"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="183" x="266" y="1324.6992">Update production environment</text><line style="stroke:#A80036;stroke-width:1.5;" x1="134.5" x2="357.5" y1="1357.2305" y2="1357.2305"/><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="153,1122.4873,347,1122.4873,359,1134.4873,347,1146.4873,153,1146.4873,141,1134.4873,153,1122.4873" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="254" y="1157.1221">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="194" x="153" y="1138.6445">Should update platform or backend?</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="250,1377.2305,262,1389.2305,250,1401.2305,238,1389.2305,250,1377.2305" style="stroke:#A80036;stroke-width:1.5;"/><rect fill="#FFFFFF" filter="url(#fq8lop51jjubg)" height="82.6211" style="stroke:#000000;stroke-width:2.0;" width="201" x="149.5" y="1446.2617"/><path d="M340.5,1446.2617 L340.5,1455.75 L330.5,1465.75 L149.5,1465.75 " fill="none" style="stroke:#000000;stroke-width:2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="152.5" y="1460.7969">Testing on GOSProduction</text><rect fill="#FEFECE" filter="url(#fq8lop51jjubg)" height="34.1328" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="62" x="219" y="1482.75"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="229" y="1504.3516">Testing</text><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="250,71.1992,262,83.1992,250,95.1992,238,83.1992,250,71.1992" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FEFECE" filter="url(#fq8lop51jjubg)" points="205.5,1548.8828,294.5,1548.8828,306.5,1560.8828,294.5,1572.8828,205.5,1572.8828,193.5,1560.8828,205.5,1548.8828" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="89" x="205.5" y="1565.04">still have errors?</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="306.5" y="1558.5625">yes</text><ellipse cx="250" cy="1603.8828" fill="#FFFFFF" filter="url(#fq8lop51jjubg)" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="250" cy="1603.8828" fill="#000000" rx="6" ry="6" style="stroke:#7F7F7F;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="106" x2="106" y1="310.8203" y2="417.0879"/><polygon fill="#A80036" points="102,407.0879,106,417.0879,110,407.0879,106,411.0879" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="303.5" x2="303.5" y1="310.8203" y2="342.9551"/><polygon fill="#A80036" points="299.5,332.9551,303.5,342.9551,307.5,332.9551,303.5,336.9551" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="303.5" x2="303.5" y1="377.0879" y2="417.0879"/><polygon fill="#A80036" points="299.5,407.0879,303.5,417.0879,307.5,407.0879,303.5,411.0879" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="174.5" x2="206.5" y1="298.8203" y2="298.8203"/><polygon fill="#A80036" points="196.5,294.8203,206.5,298.8203,196.5,302.8203,200.5,298.8203" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="237.332" y2="271.8203"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="106" y1="271.8203" y2="271.8203"/><line style="stroke:#A80036;stroke-width:1.5;" x1="106" x2="106" y1="271.8203" y2="286.8203"/><polygon fill="#A80036" points="102,276.8203,106,286.8203,110,276.8203,106,280.8203" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="400.5" x2="447.5" y1="298.8203" y2="298.8203"/><line style="stroke:#A80036;stroke-width:1.5;" x1="447.5" x2="447.5" y1="298.8203" y2="417.0879"/><polygon fill="#A80036" points="443.5,407.0879,447.5,417.0879,451.5,407.0879,447.5,411.0879" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="106" x2="447.5" y1="417.0879" y2="417.0879"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="417.0879" y2="437.0879"/><polygon fill="#A80036" points="246,427.0879,250,437.0879,254,427.0879,250,431.0879" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="471.2207" y2="491.2207"/><polygon fill="#A80036" points="246,481.2207,250,491.2207,254,481.2207,250,485.2207" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="306.5" x2="483" y1="589.3535" y2="589.3535"/><polygon fill="#A80036" points="479,397.0879,483,387.0879,487,397.0879,483,393.0879" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="483" x2="483" y1="225.332" y2="589.3535"/><line style="stroke:#A80036;stroke-width:1.5;" x1="483" x2="262" y1="225.332" y2="225.332"/><polygon fill="#A80036" points="272,221.332,262,225.332,272,229.332,268,225.332" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="525.3535" y2="577.3535"/><polygon fill="#A80036" points="246,567.3535,250,577.3535,254,567.3535,250,571.3535" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="193.332" y2="213.332"/><polygon fill="#A80036" points="246,203.332,250,213.332,254,203.332,250,207.332" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="113" y1="710.8506" y2="729.3506"/><polygon fill="#A80036" points="109,719.3506,113,729.3506,117,719.3506,113,723.3506" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="273" x2="273" y1="710.8506" y2="729.3506"/><polygon fill="#A80036" points="269,719.3506,273,729.3506,277,719.3506,273,723.3506" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="410" x2="410" y1="710.8506" y2="729.3506"/><polygon fill="#A80036" points="406,719.3506,410,729.3506,414,719.3506,410,723.3506" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="113" y1="763.4834" y2="783.4834"/><polygon fill="#A80036" points="109,773.4834,113,783.4834,117,773.4834,113,777.4834" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="117" y="777.6406">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="273" x2="273" y1="763.4834" y2="783.4834"/><polygon fill="#A80036" points="269,773.4834,273,783.4834,277,773.4834,273,777.4834" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="277" y="777.6406">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="410" x2="410" y1="763.4834" y2="783.4834"/><polygon fill="#A80036" points="406,773.4834,410,783.4834,414,773.4834,410,777.4834" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="414" y="777.6406">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="784.9834" y2="813.1826"/><polygon fill="#A80036" points="246,803.1826,250,813.1826,254,803.1826,250,807.1826" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="684.873" y2="709.3506"/><polygon fill="#A80036" points="246,699.3506,250,709.3506,254,699.3506,250,703.3506" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="359" x2="477" y1="672.873" y2="672.873"/><polygon fill="#A80036" points="473,770.9834,477,780.9834,481,770.9834,477,774.9834" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="477" x2="477" y1="672.873" y2="879.3154"/><line style="stroke:#A80036;stroke-width:1.5;" x1="477" x2="262" y1="879.3154" y2="879.3154"/><polygon fill="#A80036" points="272,875.3154,262,879.3154,272,883.3154,268,879.3154" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="847.3154" y2="867.3154"/><polygon fill="#A80036" points="246,857.3154,250,867.3154,254,857.3154,250,861.3154" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="601.3535" y2="660.873"/><polygon fill="#A80036" points="246,650.873,250,660.873,254,650.873,250,654.873" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="167" x="254" y="622.8086">SUBMIT TO PLATFORM TESTING</text><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="891.3154" y2="972.835"/><polygon fill="#A80036" points="246,962.835,250,972.835,254,962.835,250,966.835" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="134" x="254" y="924.7705">START STAGING TESTING</text><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="139.1992" y2="159.1992"/><polygon fill="#A80036" points="246,149.1992,250,159.1992,254,149.1992,250,153.1992" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="306.5" x2="511" y1="1050.9678" y2="1050.9678"/><polygon fill="#A80036" points="507,557.3535,511,547.3535,515,557.3535,511,553.3535" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="511" x2="511" y1="127.1992" y2="1050.9678"/><line style="stroke:#A80036;stroke-width:1.5;" x1="511" x2="262" y1="127.1992" y2="127.1992"/><polygon fill="#A80036" points="272,123.1992,262,127.1992,272,131.1992,268,127.1992" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1006.9678" y2="1038.9678"/><polygon fill="#A80036" points="246,1028.9678,250,1038.9678,254,1028.9678,250,1032.9678" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="113" y1="1172.4648" y2="1190.9648"/><polygon fill="#A80036" points="109,1180.9648,113,1190.9648,117,1180.9648,113,1184.9648" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="273" x2="273" y1="1172.4648" y2="1190.9648"/><polygon fill="#A80036" points="269,1180.9648,273,1190.9648,277,1180.9648,273,1184.9648" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="410" x2="410" y1="1172.4648" y2="1190.9648"/><polygon fill="#A80036" points="406,1180.9648,410,1190.9648,414,1180.9648,410,1184.9648" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="113" x2="113" y1="1225.0977" y2="1245.0977"/><polygon fill="#A80036" points="109,1235.0977,113,1245.0977,117,1235.0977,113,1239.0977" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="117" y="1239.2549">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="273" x2="273" y1="1225.0977" y2="1245.0977"/><polygon fill="#A80036" points="269,1235.0977,273,1245.0977,277,1235.0977,273,1239.0977" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="277" y="1239.2549">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="410" x2="410" y1="1225.0977" y2="1245.0977"/><polygon fill="#A80036" points="406,1235.0977,410,1245.0977,414,1235.0977,410,1239.0977" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="18" x="414" y="1239.2549">yes</text><line style="stroke:#A80036;stroke-width:1.5;" x1="134.5" x2="134.5" y1="1283.0977" y2="1303.0977"/><polygon fill="#A80036" points="130.5,1293.0977,134.5,1303.0977,138.5,1293.0977,134.5,1297.0977" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="14" x="138.5" y="1297.2549">do</text><line style="stroke:#A80036;stroke-width:1.5;" x1="357.5" x2="357.5" y1="1283.0977" y2="1303.0977"/><polygon fill="#A80036" points="353.5,1293.0977,357.5,1303.0977,361.5,1293.0977,357.5,1297.0977" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="14" x="361.5" y="1297.2549">do</text><line style="stroke:#A80036;stroke-width:1.5;" x1="134.5" x2="134.5" y1="1337.2305" y2="1357.2305"/><polygon fill="#A80036" points="130.5,1347.2305,134.5,1357.2305,138.5,1347.2305,134.5,1351.2305" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="357.5" x2="357.5" y1="1337.2305" y2="1357.2305"/><polygon fill="#A80036" points="353.5,1347.2305,357.5,1357.2305,361.5,1347.2305,357.5,1351.2305" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1246.5977" y2="1281.5977"/><polygon fill="#A80036" points="246,1271.5977,250,1281.5977,254,1271.5977,250,1275.5977" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1146.4873" y2="1170.9648"/><polygon fill="#A80036" points="246,1160.9648,250,1170.9648,254,1160.9648,250,1164.9648" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="359" x2="481.5" y1="1134.4873" y2="1134.4873"/><polygon fill="#A80036" points="477.5,1254.0977,481.5,1264.0977,485.5,1254.0977,481.5,1258.0977" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="481.5" x2="481.5" y1="1134.4873" y2="1389.2305"/><line style="stroke:#A80036;stroke-width:1.5;" x1="481.5" x2="262" y1="1389.2305" y2="1389.2305"/><polygon fill="#A80036" points="272,1385.2305,262,1389.2305,272,1393.2305,268,1389.2305" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1358.7305" y2="1377.2305"/><polygon fill="#A80036" points="246,1367.2305,250,1377.2305,254,1367.2305,250,1371.2305" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1062.9678" y2="1122.4873"/><polygon fill="#A80036" points="246,1112.4873,250,1122.4873,254,1112.4873,250,1116.4873" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="182" x="254" y="1084.4229">SUBMIT TO PRODUCTION TESTING</text><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1401.2305" y2="1482.75"/><polygon fill="#A80036" points="246,1472.75,250,1482.75,254,1472.75,250,1476.75" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="159" x="254" y="1434.6855">START PRODUCTION TESTING</text><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="95.1992" y2="115.1992"/><polygon fill="#A80036" points="246,105.1992,250,115.1992,254,105.1992,250,109.1992" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="306.5" x2="529" y1="1560.8828" y2="1560.8828"/><polygon fill="#A80036" points="525,793.1826,529,783.1826,533,793.1826,529,789.1826" style="stroke:#A80036;stroke-width:1.5;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="529" x2="529" y1="83.1992" y2="1560.8828"/><line style="stroke:#A80036;stroke-width:1.5;" x1="529" x2="262" y1="83.1992" y2="83.1992"/><polygon fill="#A80036" points="272,79.1992,262,83.1992,272,87.1992,268,83.1992" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1516.8828" y2="1548.8828"/><polygon fill="#A80036" points="246,1538.8828,250,1548.8828,254,1538.8828,250,1542.8828" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="51.1992" y2="71.1992"/><polygon fill="#A80036" points="246,61.1992,250,71.1992,254,61.1992,250,65.1992" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="250" x2="250" y1="1572.8828" y2="1592.8828"/><polygon fill="#A80036" points="246,1582.8828,250,1592.8828,254,1582.8828,250,1586.8828" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[4187ffa2baf43a579f40de187c78441c]
+@startuml
+title Development-testing process
+start
+
+repeat
+    repeat
+    :Start of development;
+    repeat
+        partition "Gameflow development" {
+                if(Has specific content?) then (no)
+                elseif(Should update specific content?) then (yes)
+                    #palegreen:MEP team update speicific content;
+                endif
+
+                :Develop;
+                :Testing on Sandbox;
+        }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PLATFORM TESTING//;
+
+    partition #LightPink "Prepare GOSStaging" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            :Update staging environment;
+        endif
+    }
+
+    ->//START STAGING TESTING//;
+
+    partition "Testing on GOSStaging" {
+        :Testing;
+    }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PRODUCTION TESTING//;
+
+    partition #LightPink "Prepare GOSProduction" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            split
+                ->//do//;
+                :Increase game config version;
+            split again
+                ->//do//;
+                :Update production environment;
+            end split
+        endif
+    }
+
+    ->//START PRODUCTION TESTING//;
+
+    partition "Testing on GOSProduction" {
+        :Testing;
+    }
+repeat while(still have errors?) is (yes)
+' repeat
+'   :Test something;
+'     if (Something went wrong?) then (no)
+'       #palegreen:OK;
+'       break
+'     endif
+'     ->NOK;
+'     :Alert "Error with long text";
+' repeat while (Something went wrong with long text?) is (yes) not (no)
+' ->//merged step//;
+' :Alert "Success";
+stop
+@enduml
+
+@startuml
+title Development-testing process
+start
+
+repeat
+    repeat
+    :Start of development;
+    repeat
+        partition "Gameflow development" {
+                if(Has specific content?) then (no)
+                elseif(Should update specific content?) then (yes)
+                    #palegreen:MEP team update speicific content;
+                endif
+
+                :Develop;
+                :Testing on Sandbox;
+        }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PLATFORM TESTING//;
+
+    partition #LightPink "Prepare GOSStaging" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            :Update staging environment;
+        endif
+    }
+
+    ->//START STAGING TESTING//;
+
+    partition "Testing on GOSStaging" {
+        :Testing;
+    }
+    repeat while(still have errors?) is (yes)
+
+    ->//SUBMIT TO PRODUCTION TESTING//;
+
+    partition #LightPink "Prepare GOSProduction" {
+        if (Should update platform or backend?) then (yes)
+            split
+                :Update GOS staging;
+                ->//yes//;
+            split again
+                :Update API staging;
+                ->//yes//;
+            split again
+                :Update SDK;
+                ->//yes//;
+            end split
+            split
+                ->//do//;
+                :Increase game config version;
+            split again
+                ->//do//;
+                :Update production environment;
+            end split
+        endif
+    }
+
+    ->//START PRODUCTION TESTING//;
+
+    partition "Testing on GOSProduction" {
+        :Testing;
+    }
+repeat while(still have errors?) is (yes)
+stop
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 19:40:07 ICT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: VN
+--></g></svg>
